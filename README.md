@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- I’m currently learning Computer Engineering in ULL
+- Some of the programming languages I've learned so far
+
+    1. C++
+    2. Java
+    3. Ruby 
+    4. Python
+
 <!--
 **sarasds/sarasds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
